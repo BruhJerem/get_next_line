@@ -1,11 +1,11 @@
 /*
 ** get_next_line.c for get_next_line in /home/jeremie/delivery/CPE/CPE_2016_getnextline
 ** 
-** Made by jeremie bruhwiler
+** Made by jeremie
 ** Login   <jeremie@epitech.net>
 ** 
-** Started on  Mon Jan  2 10:03:09 2017 jeremie bruhwiler
-** Last update Mon Jan 16 09:24:50 2017 jeremie bruhwiler
+** Started on  Mon Jan  2 10:03:09 2017 jeremie 
+** Last update Mon Jan 16 09:24:50 2017 jeremie 
 */
 
 #include <unistd.h>
